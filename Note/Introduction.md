@@ -36,8 +36,6 @@ Flutter does not compile your code to some native euqivalence or native alternat
 
 #### Flutter Docker
 
----
-
 ### Material Design Everywhere
 
 - Material is a **Design System** create(and heavily used)by Google
