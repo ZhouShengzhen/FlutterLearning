@@ -50,7 +50,7 @@ Flutter does not compile your code to some native euqivalence or native alternat
 
   - Dart + Flutter
   - Compiled Native Apps
-  - Does NOT compile to iOS/Android UI Components
+  - Does NOT compile to iOS/Android UI Componentsuser
   - Cross-platfrom(mobile apps. web aps, desktop apps)
 
 - React Native(Facebook)
